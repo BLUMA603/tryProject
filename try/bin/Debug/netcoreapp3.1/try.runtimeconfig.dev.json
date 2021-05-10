@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\bluma\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\bluma\\.nuget\\packages"
+    ]
+  }
+}
